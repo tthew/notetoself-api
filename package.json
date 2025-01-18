@@ -2,9 +2,9 @@
 	"name" : "notetoself-api",
 	"version" : "0.0.1",
 	"dependencies" : {
-		"restify": "2.x",
-		"mongoose": "3.x",
-		"lodash": "1.x",
+		"restify": "11.x",
+		"mongoose": "8.x",
+		"lodash": "4.x",
 		"mocha": "*",
 		"chai": "*"
 	} 
